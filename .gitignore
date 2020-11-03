@@ -1,0 +1,7 @@
+# Files
+*.o
+*.out
+*.exe
+
+# Folders
+bin/
